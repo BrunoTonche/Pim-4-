@@ -164,9 +164,9 @@ namespace CamadaDados
 
         }
 
-        //Metodo Buscar Nome 
+        //metodo buscar nome 
 
-        public string BuscarNome(DCategoria Categoria)
+        public string buscarNome(DCategoria Categoria)
         {
 
         }
